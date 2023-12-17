@@ -1,0 +1,8 @@
+A:\programming\Lb7\Lb7\bin\Debug\Lb7.exe.config
+A:\programming\Lb7\Lb7\bin\Debug\Lb7.exe
+A:\programming\Lb7\Lb7\bin\Debug\Lb7.pdb
+A:\programming\Lb7\Lb7\obj\Debug\Lb7.csproj.AssemblyReference.cache
+A:\programming\Lb7\Lb7\obj\Debug\Lb7.csproj.SuggestedBindingRedirects.cache
+A:\programming\Lb7\Lb7\obj\Debug\Lb7.csproj.CoreCompileInputs.cache
+A:\programming\Lb7\Lb7\obj\Debug\Lb7.exe
+A:\programming\Lb7\Lb7\obj\Debug\Lb7.pdb
